@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "I:\\programas\\flutter\\frases\\frases\\build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
+            "outputFile": "I:\\projetos-flutter\\flutter-projects\\frases\\build\\app\\intermediates\\res\\merged\\debug\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "I:\\programas\\flutter\\frases\\frases\\android\\app\\src\\main\\res\\values\\styles.xml",
+                    "source": "I:\\projetos-flutter\\flutter-projects\\frases\\android\\app\\src\\main\\res\\values\\styles.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
